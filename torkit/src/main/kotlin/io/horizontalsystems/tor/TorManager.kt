@@ -1,8 +1,8 @@
-package io.horizontalsystems.tor
+package io.definenulls.tor
 
 import android.annotation.SuppressLint
 import android.content.Context
-import io.horizontalsystems.tor.core.TorOperator
+import io.definenulls.tor.core.TorOperator
 import io.reactivex.Single
 
 class TorManager(context: Context, private val listener: Listener) : TorOperator.Listener {

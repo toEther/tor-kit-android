@@ -1,10 +1,10 @@
-package io.horizontalsystems.tor.core
+package io.definenulls.tor.core
 
 import com.jaredrummler.android.shell.Shell
-import io.horizontalsystems.tor.ConnectionStatus
-import io.horizontalsystems.tor.EntityStatus
-import io.horizontalsystems.tor.Tor
-import io.horizontalsystems.tor.utils.ProcessUtils
+import io.definenulls.tor.ConnectionStatus
+import io.definenulls.tor.EntityStatus
+import io.definenulls.tor.Tor
+import io.definenulls.tor.utils.ProcessUtils
 import io.reactivex.Single
 import io.reactivex.schedulers.Schedulers
 import java.io.File

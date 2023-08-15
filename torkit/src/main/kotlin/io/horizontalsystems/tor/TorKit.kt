@@ -1,9 +1,9 @@
-package io.horizontalsystems.tor
+package io.definenulls.tor
 
 import android.content.Context
 import android.util.Log
-import io.horizontalsystems.tor.core.TorConstants
-import io.horizontalsystems.tor.utils.ConnectionManager
+import io.definenulls.tor.core.TorConstants
+import io.definenulls.tor.utils.ConnectionManager
 import io.reactivex.Single
 import io.reactivex.subjects.PublishSubject
 import retrofit2.Retrofit

@@ -1,8 +1,8 @@
-package io.horizontalsystems.tor
+package io.definenulls.tor
 
 import android.app.Application
 import android.content.Context
-import io.horizontalsystems.tor.core.TorConstants
+import io.definenulls.tor.core.TorConstants
 import java.io.File
 
 enum class EntityStatus(val processId: Int) {

@@ -1,4 +1,4 @@
-package io.horizontalsystems.tor.utils
+package io.definenulls.tor.utils
 
 import android.os.Build
 import android.util.Log

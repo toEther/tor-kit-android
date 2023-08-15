@@ -1,8 +1,8 @@
-package io.horizontalsystems.tor.core
+package io.definenulls.tor.core
 
 import android.text.TextUtils
-import io.horizontalsystems.tor.ConnectionStatus
-import io.horizontalsystems.tor.Tor
+import io.definenulls.tor.ConnectionStatus
+import io.definenulls.tor.Tor
 import io.reactivex.Observable
 import io.reactivex.schedulers.Schedulers
 import net.freehaven.tor.control.EventHandler

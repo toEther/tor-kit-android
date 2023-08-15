@@ -1,4 +1,4 @@
-package io.horizontalsystems.tor.core
+package io.definenulls.tor.core
 
 
 interface TorConstants {

@@ -7,7 +7,7 @@ plugins {
 android {
     compileSdkVersion 33
     defaultConfig {
-        applicationId "io.horizontalsystems.tor.demo"
+        applicationId "io.definenulls.tor.demo"
         minSdkVersion 26
         targetSdkVersion 33
         versionCode 1

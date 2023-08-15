@@ -1,10 +1,10 @@
-package io.horizontalsystems.tor.core
+package io.definenulls.tor.core
 
 import android.util.Log
-import io.horizontalsystems.tor.Tor
-import io.horizontalsystems.tor.utils.FileUtils
-import io.horizontalsystems.tor.utils.NativeLoader
-import io.horizontalsystems.tor.utils.NetworkUtils
+import io.definenulls.tor.Tor
+import io.definenulls.tor.utils.FileUtils
+import io.definenulls.tor.utils.NativeLoader
+import io.definenulls.tor.utils.NetworkUtils
 import java.io.*
 import java.util.concurrent.TimeoutException
 import java.util.logging.Logger

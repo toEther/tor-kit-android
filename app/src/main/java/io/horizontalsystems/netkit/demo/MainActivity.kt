@@ -1,4 +1,4 @@
-package io.horizontalsystems.netkit.demo
+package io.definenulls.netkit.demo
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -23,7 +23,7 @@ import java.io.PrintWriter
 import java.net.MalformedURLException
 import java.net.URL
 import kotlin.system.exitProcess
-import io.horizontalsystems.tor.TorKit
+import io.definenulls.tor.TorKit
 
 
 @SuppressLint("SetTextI18n")

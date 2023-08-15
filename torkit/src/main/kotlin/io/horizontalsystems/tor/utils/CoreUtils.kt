@@ -1,7 +1,7 @@
-package io.horizontalsystems.tor.utils
+package io.definenulls.tor.utils
 
 import android.os.FileObserver
-import io.horizontalsystems.tor.core.TorConstants
+import io.definenulls.tor.core.TorConstants
 import java.io.BufferedReader
 import java.io.File
 import java.io.IOException

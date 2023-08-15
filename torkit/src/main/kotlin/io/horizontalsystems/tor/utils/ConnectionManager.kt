@@ -1,4 +1,4 @@
-package io.horizontalsystems.tor.utils
+package io.definenulls.tor.utils
 
 import com.google.gson.GsonBuilder
 import okhttp3.OkHttpClient

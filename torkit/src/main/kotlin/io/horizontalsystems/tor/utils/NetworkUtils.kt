@@ -1,4 +1,4 @@
-package io.horizontalsystems.tor.utils
+package io.definenulls.tor.utils
 
 import java.net.ConnectException
 import java.net.InetSocketAddress
